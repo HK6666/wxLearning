@@ -1,4 +1,5 @@
 // components/playlist.js
+import regeneratorRuntime from '../../utils/runtime.js'
 Component({
   /**
    * 组件的属性列表
